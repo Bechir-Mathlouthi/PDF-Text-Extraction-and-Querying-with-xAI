@@ -30,6 +30,7 @@ Install the necessary Python libraries via `pip`:
 
 ```bash
 !pip install langchain unstructured pdf2image pytesseract requests
+```
 
 ### Acknowledgments
 This project leverages LangChain for document processing and text embedding generation.
